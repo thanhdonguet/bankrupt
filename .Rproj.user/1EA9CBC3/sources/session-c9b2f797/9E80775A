@@ -1,0 +1,28 @@
+{
+    "id": "9E80775A",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1728469285588.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "bbd7c3dc61344d5dbccbcb73a95b5a43",
+        "name": "normality_results",
+        "title": "normality_results",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8872136861971017577,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728469285588,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "F5FC6F81",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1728469174211.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "c26db750c4954485a1e19c226f69f30a",
+        "name": "levene_results",
+        "title": "levene_results",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1637807646184,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728469174211,
+    "read_only": false,
+    "read_only_alternatives": []
+}
